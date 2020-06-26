@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Thanwa\\Euler\\Euler.Console\\Euler.App.csproj",
+      "projectUniqueName": "D:\\Thanwa\\Euler\\Euler.App\\Euler.App.csproj",
       "projectName": "Euler.App",
-      "projectPath": "D:\\Thanwa\\Euler\\Euler.Console\\Euler.App.csproj",
+      "projectPath": "D:\\Thanwa\\Euler\\Euler.App\\Euler.App.csproj",
       "packagesPath": "C:\\Users\\c1000980\\.nuget\\packages\\",
-      "outputPath": "D:\\Thanwa\\Euler\\Euler.Console\\obj\\",
+      "outputPath": "D:\\Thanwa\\Euler\\Euler.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
