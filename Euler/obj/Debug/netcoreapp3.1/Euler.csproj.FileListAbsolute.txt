@@ -1,9 +1,0 @@
-D:\Thanwa\Euler\Euler\bin\Debug\netcoreapp3.1\Euler.deps.json
-D:\Thanwa\Euler\Euler\bin\Debug\netcoreapp3.1\Euler.dll
-D:\Thanwa\Euler\Euler\bin\Debug\netcoreapp3.1\Euler.pdb
-D:\Thanwa\Euler\Euler\obj\Debug\netcoreapp3.1\Euler.csprojAssemblyReference.cache
-D:\Thanwa\Euler\Euler\obj\Debug\netcoreapp3.1\Euler.AssemblyInfoInputs.cache
-D:\Thanwa\Euler\Euler\obj\Debug\netcoreapp3.1\Euler.AssemblyInfo.cs
-D:\Thanwa\Euler\Euler\obj\Debug\netcoreapp3.1\Euler.csproj.CoreCompileInputs.cache
-D:\Thanwa\Euler\Euler\obj\Debug\netcoreapp3.1\Euler.dll
-D:\Thanwa\Euler\Euler\obj\Debug\netcoreapp3.1\Euler.pdb
